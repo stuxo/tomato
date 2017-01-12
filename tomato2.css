@@ -770,6 +770,7 @@ table.forum_index tr * {
 }
 #torrents [id*="post"] .colhead_dark {
     font-size: 0;
+    margin-right: 4px;
 }
 #forums [id*="post"] span,
 #forums [id*="post"] a,
