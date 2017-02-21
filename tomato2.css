@@ -552,10 +552,10 @@ a#ft_toggle.brackets[onclick="return toggleTorrentSearch(0);"][href="#"]:after {
     /* Vanity House */
     border: 0 !important;
 }
-#index [class="box news_post"]:not(:nth-child(0)) [class="pad"] {
+#index [class="box news_post"]:not(:nth-child(2)) [class="pad"] {
     display: none !important;
 }
-#index [class="box news_post"]:not(:nth-child(0)) [class="pad hidden"] {
+#index [class="box news_post"]:not(:nth-child(1)) [class="pad hidden"] {
     display: block !important;
 }
 #index [class="box news_post"] .head {
